@@ -1,0 +1,2 @@
+<?php
+/* Uber index template */
