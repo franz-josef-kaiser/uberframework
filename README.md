@@ -16,3 +16,7 @@ _Proudly brought to you by Franz Josef Kaiser._
 <li><a href="https://plus.google.com/107110219316412982437/" alt="Follow on G+">unserkaiser+</a></li>
 <li><a href="http://unserkaiser.com" alt="Visit at the (digital) home">unserkaiser at home</a></li>
 </ul>
+
+### Google Pagespeed: 100/100
+
+<img src="https://raw.github.com/franz-josef-kaiser/uberframework/master/screenshot-2.png" alt="Google Pagespeed benchmark screenshot" />
